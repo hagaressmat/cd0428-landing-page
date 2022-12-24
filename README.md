@@ -6,10 +6,9 @@
 build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
 # Project content
-- [https://github.com/hagaressmat/cd0428-landing-page/blob/main/js/app.js]app.js
-- [https://github.com/hagaressmat/cd0428-landing-page/blob/main/index.html]index.html
-- [https://github.com/hagaressmat/cd0428-landing-page/blob/main/css/styles.css]styles.css
-
+- [app.js](https://github.com/hagaressmat/cd0428-landing-page/blob/main/js/app.js)
+- [index.html](https://github.com/hagaressmat/cd0428-landing-page/blob/main/js/index.html)
+- [styles.css](https://github.com/hagaressmat/cd0428-landing-page/blob/main/js/css/styles.css)
 # Evaluate
 evaluated by a Udacity code reviewer according to the Landing Page project rubric.
 
