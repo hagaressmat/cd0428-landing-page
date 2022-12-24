@@ -1,3 +1,10 @@
+# Table of contents
+- [Project Title](#project-title)
+- [Project content](#Project-content)
+- [Description](#Description)
+- [Evaluate](#Evaluate)
+
+
 # Project Title
 
 ### Landing Page Project
@@ -12,9 +19,3 @@ build a multi-section landing page, with a dynamically updating navigational men
 # Evaluate
 evaluated by a Udacity code reviewer according to the Landing Page project rubric.
 
-# Table of contents
-- [Project Title](#project-title)
-- [Project content](#Project-content)
-- [Table of contents](#table-of-contents)
-- [Description](#Description)
-- [Evaluate](#Evaluate)
