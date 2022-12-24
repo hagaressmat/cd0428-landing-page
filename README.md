@@ -1,13 +1,21 @@
-# Landing Page Project
+# Project Title
 
-## Table of Contents
+### Landing Page Project
 
-* [Instructions](#instructions)
+# Description
+build a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
 
-## Instructions
+# Project content
+- [js/app.js]app.js
+- [index.html]index.html
+- [css/styles.css]styles.css
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+# Evaluate
+evaluated by a Udacity code reviewer according to the Landing Page project rubric.
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+# Table of contents
+- [Project Title](#project-title)
+- [Project content](#Project-content)
+- [Table of contents](#table-of-contents)
+- [Description](#Description)
+- [Evaluate](#Evaluate)
