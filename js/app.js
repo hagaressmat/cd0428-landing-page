@@ -97,7 +97,7 @@ function activeNav(){
 document.addEventListener('scroll', activeNav);
 
 // Scroll to anchor ID using scrollTO event
-document.scrollTo({
+window.scrollTo({
     top: 100,
     left: 100,
     behavior: 'smooth'
