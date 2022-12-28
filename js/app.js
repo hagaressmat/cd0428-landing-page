@@ -50,7 +50,6 @@ function addNav(){
         link.textContent = section.getAttribute('data-nav');
         link.href = `#${section.getAttribute('id')}`;
         link.className ="menu__link";
-        link.scrollIntoView({behavior: "smooth", block: "end", inline: "nearest"});
         element.appendChild(link);
         list.appendChild(element);
 
@@ -97,13 +96,19 @@ function activeNav(){
 document.addEventListener('scroll', activeNav);
 
 // Scroll to anchor ID using scrollTO event
-window.scrollTo({
-    top: 100,
-    left: 100,
-    behavior: 'smooth'
-  });
+navLinks = document.querySelectorAll('.menu__link');
+console.log(navLinks);
+for (let link of navLinks){
+    link.addEventListener('click', (a)=>{
+        a.preventDefault();
+        const navId =  link.getAttribute('href');
+        const id = document.querySelector(navId);
+        id.scrollIntoView({
+            behavior : "smooth"
+        });
+    });
 
-
+}
 
 /**
  * End Main Functions
